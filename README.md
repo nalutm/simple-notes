@@ -8,16 +8,34 @@ O propósito desse repositório é armazenar e compartilhar materiais que eu cri
 ### Comandos Básicos Linux e Git
 É um arquivo que eu criei explicando de forma simples alguns comandos básicos de Linux e Git 
 
-![imagem](/images/1.png)
-![imagem](/images/2.png)
-![imagem](/images/3.png)
+<p align="center"> 
+  <img src="/images/1.png" />
+</p>
 
-Você pode [baixar o pdf material](https://github.com/nalutm/simple-notes/blob/master/comandos-basicos-linux-git.pdf)
+<p align="center"> 
+  <img src="/images/2.png" />
+</p>
 
-### Folder Flexbox 
+<p align="center"> 
+  <img src="/images/3.png" />
+</p>
+
+<p align="center"> 
+  Você pode <a href="https://github.com/nalutm/simple-notes/blob/master/comandos-basicos-linux-git.pdf">baixar o pdf material</a>
+</p>
+
+
+
+### Poster Flexbox 
 É uma imagem sobre importantes propriedades do flex-box dispostas de forma bastante ilustrativa
 Fonte: [CCS TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#top-of-site)
 
-![imagem](/images/css-flexbox-poster.png)
+<p align="center"> 
+  <img src="/images/css-flexbox-poster.png" />
+</p>
 
-Você pode [baixar a imagem acima](https://github.com/nalutm/simple-notes/raw/master/images/css-flexbox-poster.png) 
+<p align="center"> 
+  Você pode <a href="https://github.com/nalutm/simple-notes/raw/master/images/css-flexbox-poster.png">baixar a imagem</a>
+</p>
+
+
