@@ -20,4 +20,4 @@ Fonte: [CCS TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#top-
 
 ![imagem](/images/css-flexbox-poster.png)
 
-Você pode [baixar o folder](https://github.com/nalutm/simple-notes/blob/master/css-flexbox-poster.png) 
+Você pode [baixar o folder](https://github.com/nalutm/simple-notes/raw/master/images/css-flexbox-poster.png) 
