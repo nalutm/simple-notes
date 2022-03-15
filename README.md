@@ -21,7 +21,7 @@ O propósito desse repositório é armazenar e compartilhar materiais que eu cri
 </p>
 
 <p align="center"> 
-  Você pode <a href="https://github.com/nalutm/simple-notes/raw/master/comandos-basicos-linux-git.pdf">baixar o pdf material</a>
+  Você pode <a href="https://github.com/nalutm/simple-notes/raw/master/comandos-basicos-linux-git.pdf">baixar o pdf</a>
 </p>
 
 
