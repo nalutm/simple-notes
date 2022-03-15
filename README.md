@@ -15,9 +15,9 @@ O propósito desse repositório é armazenar e compartilhar materiais que eu cri
 Você pode [baixar o pdf material](https://github.com/nalutm/simple-notes/blob/master/comandos-basicos-linux-git.pdf)
 
 ### Folder Flexbox 
-É um folder sobre importantes propriedades do flex-box dispostas de forma bastante ilustrativa
+É uma imagem sobre importantes propriedades do flex-box dispostas de forma bastante ilustrativa
 Fonte: [CCS TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#top-of-site)
 
 ![imagem](/images/css-flexbox-poster.png)
 
-Você pode [baixar o folder](https://github.com/nalutm/simple-notes/raw/master/images/css-flexbox-poster.png) 
+Você pode [baixar a imagem acima](https://github.com/nalutm/simple-notes/raw/master/images/css-flexbox-poster.png) 
