@@ -8,9 +8,9 @@ O propósito desse repositório é armazenar e compartilhar materiais que eu cri
 ### Comandos Básicos Linux e Git
 É um arquivo que eu criei explicando de forma simples alguns comandos básicos de Linux e Git 
 
-![imagem](./doc-images/1.png)
-![imagem](./doc-images/2.png)
-![imagem](./doc-images/15.png)
+![imagem](/images/1.png)
+![imagem](/images/2.png)
+![imagem](/images/15.png)
 
 Você pode [baixar o pdf material](https://github.com/nalutm/simple-notes/blob/master/comandos-basicos-linux-git.pdf)
 
@@ -18,6 +18,6 @@ Você pode [baixar o pdf material](https://github.com/nalutm/simple-notes/blob/m
 É um folder sobre importantes propriedades do flex-box dispostas de forma bastante ilustrativa
 Fonte: [CCS TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#top-of-site)
 
-![imagem](./doc-images/css-flexbox-poster.png)
+![imagem](/images/css-flexbox-poster.png)
 
 Você pode [baixar o folder](https://github.com/nalutm/simple-notes/blob/master/css-flexbox-poster.png) 
