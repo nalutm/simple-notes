@@ -27,7 +27,7 @@ O propósito desse repositório é armazenar e compartilhar materiais que eu cri
 
 
 ### Poster Flexbox 
-É uma imagem sobre importantes propriedades do flex-box dispostas de forma bastante ilustrativa
+É uma imagem sobre importantes propriedades do flexbox dispostas de forma bastante ilustrativa
 Fonte: [CCS TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#top-of-site)
 
 <p align="center"> 
