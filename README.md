@@ -10,7 +10,7 @@ O propósito desse repositório é armazenar e compartilhar materiais que eu cri
 
 ![imagem](/images/1.png)
 ![imagem](/images/2.png)
-![imagem](/images/15.png)
+![imagem](/images/3.png)
 
 Você pode [baixar o pdf material](https://github.com/nalutm/simple-notes/blob/master/comandos-basicos-linux-git.pdf)
 
