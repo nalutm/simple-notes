@@ -35,7 +35,7 @@ Fonte: [CCS TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#top-
 </p>
 
 <p align="center"> 
-  Você pode <a href="https://github.com/nalutm/simple-notes/raw/master/images/css-flexbox-poster.png">baixar a imagem</a>
+  Você pode <a href="https://github.com/nalutm/simple-notes/blob/master/images/css-flexbox-poster.png">baixar a imagem</a>
 </p>
 
 
